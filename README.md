@@ -23,8 +23,8 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/to-my-learning-path/base-apparel-comming-soon)
-- Live Site URL: [Github Pages](https://to-my-learning-path.github.io/base-apparel-comming-soon)
+- Solution URL: [Github Repo](https://github.com/to-my-learning-path/base-apparel-coming-soon)
+- Live Site URL: [Github Pages](https://to-my-learning-path.github.io/base-apparel-coming-soon)
 
 ## My process
 
